@@ -1,0 +1,55 @@
+body {
+    background-image: url("sharp.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    Justify-content: center;
+    align-items: center; 
+    
+  }
+  h1{
+    margin-top: 0;
+    font-family: 'Titan One', cursive;
+    color:  #20234F;
+    margin-bottom: auto;
+    font-size: 55pt;
+    display: flex;
+    Justify-content: center;
+    align-items: center; 
+  }
+  P{
+    font-family: 'Gochi Hand', cursive; 
+    line-height: 1;
+    margin-bottom: 6rem;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    color:  #7376a2;
+    
+  }
+
+main {
+padding: 0 4rem;
+max-width: 2000px;
+font-size: 20pt;
+}
+
+
+button{
+  border-radius: 15px;
+  border-color: #20234F;
+  background-color: #20234F;
+  padding: 10px;
+  color:#cbccdc;
+  font-size: 20pt;
+  font-family: 'Lilita One', cursive;
+  margin-left: 300px;
+  display: flex;
+  display: flex;
+  Justify-content: center;
+  align-items: center; 
+}
+
+ 
+ 
